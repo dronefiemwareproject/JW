@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "blt_joystick", "blt_joystick\blt_joystick.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TxRx", "TxRx\TxRx.cproj", "{CC2E7111-1929-47DF-B5C1-DAA76A311C23}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "joystick2", "joystick2\joystick2.cproj", "{581C2BDF-6A67-40D7-AFD2-9AD8A7196F71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{CC2E7111-1929-47DF-B5C1-DAA76A311C23}.Debug|AVR.ActiveCfg = Debug|AVR
+		{CC2E7111-1929-47DF-B5C1-DAA76A311C23}.Debug|AVR.Build.0 = Debug|AVR
+		{CC2E7111-1929-47DF-B5C1-DAA76A311C23}.Release|AVR.ActiveCfg = Release|AVR
+		{CC2E7111-1929-47DF-B5C1-DAA76A311C23}.Release|AVR.Build.0 = Release|AVR
+		{581C2BDF-6A67-40D7-AFD2-9AD8A7196F71}.Debug|AVR.ActiveCfg = Debug|AVR
+		{581C2BDF-6A67-40D7-AFD2-9AD8A7196F71}.Debug|AVR.Build.0 = Debug|AVR
+		{581C2BDF-6A67-40D7-AFD2-9AD8A7196F71}.Release|AVR.ActiveCfg = Release|AVR
+		{581C2BDF-6A67-40D7-AFD2-9AD8A7196F71}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
